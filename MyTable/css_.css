@@ -1,0 +1,10 @@
+body {
+    background-color: lightblue;
+}
+
+#p1,#p2 {
+	background-position: center; 
+    border-radius: 25px;
+    /*border: 4px solid;*/
+    border-color: green;
+}
